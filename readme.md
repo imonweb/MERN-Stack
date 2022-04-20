@@ -1,4 +1,4 @@
-## MERN Stacck
+## MERN Stack
 
 ### To setup (Please note, cors is important as it won't work without it)
 ```JavaScript
