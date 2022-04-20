@@ -7,6 +7,7 @@ npm i express dotenv colors cors
 
 ### Create folder: backend
 ### backend/server.js
+```JavaScript
 const express = require('express')
 const dotenv = require('dotenv').config()
 const cors = require("cors")
@@ -27,3 +28,4 @@ PORT = 5000
 
 ### Postman (must be online/logon) otherwise, won't work!
 http://localhost:5000/api/goals
+```
