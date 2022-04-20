@@ -1,10 +1,11 @@
 ## MERN Stacck
 
 ### To setup (Please note, cors is important as it won't work without it)
+```JavaScript
 npm init -y
 npm i -D nodemon
 npm i express dotenv colors cors
-
+```
 ### Create folder: backend
 ### backend/server.js
 ```JavaScript
